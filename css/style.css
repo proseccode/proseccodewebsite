@@ -1,0 +1,10 @@
+img {
+  max-width: 550px;
+  max-height: 500px;
+}
+
+#proseccoImg {
+  width: 550px;
+  height: 500px;
+  background-color: #EAD9AB;
+}
