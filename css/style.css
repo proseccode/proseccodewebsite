@@ -1,3 +1,11 @@
+body {
+  font-family: Signika Negative, sans-serif;
+  font-weight: 300;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
 #proseccoImg {
   width: 550px;
   height: 500px;
@@ -17,17 +25,6 @@ img {
   margin-right: auto;
 }
 
-body {
-  font-family: Signika Negative, sans-serif;
-  font-weight: 300;
-  color: white;
-  background-color: black;
-  text-align: center;
-}
-#demo {
-  text-align: center;
-  margin-top:20px;
-}
 #bg {
 	  background-color:#000;
   position:relative;
@@ -52,18 +49,4 @@ body {
   	position:relative;
 	  display:inline-block;
 	  color:#FFF;
-}
-#slider {
-  display: inline-block;
-	  width: 500px;
-	  height:12px;
-	  margin:8px 0px 8px 6px;
-}
-#controls button {
-  width: 80px;
-}
-#controls input {
-	  display:inline;
-	  padding:2px;
-	  margin:2px;
 }
