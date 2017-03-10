@@ -1,5 +1,5 @@
 console.log('loaded');
 
-document.getElementById('proseccoImg').addEventListener('click', function(){
-  console.log('clicked');
+document.getElementById('proseccoImg').addEventListener('mouseover', function(){
+  this.innerHTML = "Proseccode"
 });
